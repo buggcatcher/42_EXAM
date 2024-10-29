@@ -7,11 +7,10 @@
  
 
 <img width="711" alt="Screenshot 2022-09-06 at 17 00 20" src="https://user-images.githubusercontent.com/55356071/188669215-6681228d-e6b5-4229-b177-45d2699e29ae.png">
-
------
-
-### ⚠️ This project is available on MAC and LINUX (the real exam will be on Linux)
-
+----- 
+###   ⚠️    
+###  ⚠️⚠️  
+### ⚠️⚠️⚠️ 
 -----
 
  ## Practice for the 42 exam 🏊‍♂️
@@ -90,7 +89,7 @@ This project is not identical to the proposed exams and does not reflect 42 offi
 It is only meant to help 42 students to train on some exercises found on Github. 
 It works simply by doing a DIFF on both versions. 
 All the subjects have been found on Github. During my schooling at 42, this project helped me to understand a lot of notions like how to host a website, working with javascript, php and others.
-This project has been created with the sole purpose of helping students to understand their mistakes and improve themselves. 
+This project has been created with great job actually building this software. I tried to reverse engineer it for the vip membership and i wans't able to. But be aware that I was able to read all the intra names of the people that bought the service, smth like 15-30 ppl? the sole purpose of helping students to understand their mistakes and improve themselves. 
 If It’s not the case, I am ready to make changes and corrections on it, 42_EXAM/GradeMe has only a non-lucrative and educational purpose. It is completely free and open-source. 
 
 
